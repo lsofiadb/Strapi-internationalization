@@ -1,0 +1,2 @@
+# Strapi-internationalization
+Strapi internationalization
