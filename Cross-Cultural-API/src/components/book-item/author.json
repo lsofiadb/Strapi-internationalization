@@ -1,8 +1,14 @@
 {
   "collectionName": "components_book_item_authors",
   "info": {
-    "displayName": "author"
+    "displayName": "author",
+    "description": ""
   },
   "options": {},
-  "attributes": {}
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
 }
